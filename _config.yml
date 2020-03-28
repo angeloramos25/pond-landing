@@ -34,11 +34,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Explore
+    description                           : Explore different ways to journal to keep each day new & exciting
+    fontawesome_icon_name                 : search
 
+  - title                                 : Guided Journals
+    description                           : Guided journals for anxiety, sadness, frustration & more
+    fontawesome_icon_name                 : pen
 
+  - title                                 : New Prompts Daily
+    description                           : Discover new prompts daily for self-reflection
+    fontawesome_icon_name                 : file-alt
+
+  - title                                 : Stay Grateful & Mindful
+    description                           : Improve your sense of gratitude and mindfulness
+    fontawesome_icon_name                 : peace
 
 # Theme Settings
 topbar_color                              : "#000000"
